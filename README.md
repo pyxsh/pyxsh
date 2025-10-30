@@ -1,4 +1,4 @@
-## Hi there!👻
+<h3>Hey there!👻</h3>
 
 I’m Piyush, a Creative coder based in Gurgaon, India.
 
@@ -7,6 +7,13 @@ I design and build whatever my imagination throws at me.
 If an idea sparks at 2 AM, chances are I’ll code it before sunrise.
 
 My favourite tools are Notion, VS Code, Figma, Excalidraw.
+
+<h3>Fun Facts:</h3>
+
+● I hate mornings.  
+● I code at 2 AM like it’s prime time.  
+● Anime is my creative fuel.  
+
 
 ## Skills & Technologies
 
