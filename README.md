@@ -24,8 +24,6 @@ My favourite tools are Notion, VS Code, Figma, Excalidraw.
 👥 **Followers:** 1  
 🔗 **Following:** 3  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyxsh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🏆 GitHub Achievements
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=pyxsh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
