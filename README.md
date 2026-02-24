@@ -32,4 +32,5 @@ My favourite tools are Notion, VS Code, Figma, Excalidraw.
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pyxsh&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-**![LeetCode Stats](https://leetcard.jacoblin.cool/piyush-_07?theme=transparent&font=B612&ext=heatmap)**
+### Leetcode
+**![LeetCode Stats](https://leetcard.jacoblin.cool/piyush-_07?theme=catppuccinMocha&font=B612&ext=heatmap)**
